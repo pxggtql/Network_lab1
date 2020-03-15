@@ -1,0 +1,9 @@
+C:\Users\bugga\source\repos\WindowsFormsApp3\RS232C\bin\Debug\RS232C串口通信.exe.config
+C:\Users\bugga\source\repos\WindowsFormsApp3\RS232C\bin\Debug\RS232C串口通信.exe
+C:\Users\bugga\source\repos\WindowsFormsApp3\RS232C\bin\Debug\RS232C串口通信.pdb
+C:\Users\bugga\source\repos\WindowsFormsApp3\RS232C\obj\Debug\RS232C.csprojAssemblyReference.cache
+C:\Users\bugga\source\repos\WindowsFormsApp3\RS232C\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\bugga\source\repos\WindowsFormsApp3\RS232C\obj\Debug\RS232C.Properties.Resources.resources
+C:\Users\bugga\source\repos\WindowsFormsApp3\RS232C\obj\Debug\RS232C.csproj.GenerateResource.cache
+C:\Users\bugga\source\repos\WindowsFormsApp3\RS232C\obj\Debug\RS232C串口通信.exe
+C:\Users\bugga\source\repos\WindowsFormsApp3\RS232C\obj\Debug\RS232C串口通信.pdb
